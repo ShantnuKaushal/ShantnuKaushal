@@ -6,5 +6,5 @@ I'm **Shantnu Kaushal**, a Computer Science student who is passionate about **AI
 **Frameworks:** React, Scikit-learn, Pandas, NumPy
 
 ### 📫 Contact  
-📧 shntnkaushal@gmail.com  
+📧 [Email](shntnkaushal@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/shantnu-kaushal)
