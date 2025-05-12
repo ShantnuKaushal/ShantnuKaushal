@@ -1,6 +1,6 @@
 # Welcome!
 
--
+---
 
 ## 👋 About Me  
 I'm **Shantnu Kaushal**, a Computer Science student who is passionate about **AI**, **software development**, and **game design**.
