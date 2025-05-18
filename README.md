@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm **Shantnu Kaushal**, a Computer Science student who is passionate about **AI**, **software development**, and **game design**
+I'm **Shantnu Kaushal**, a Computer Science student who is passionate about **AI**, **software development**, and **game design**.
 
 - 🔭 I am currently designing and training my own AI models
 - 🌱 I want to learn more about neural networks, NLP, and cloud computing
