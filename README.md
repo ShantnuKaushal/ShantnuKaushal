@@ -32,10 +32,10 @@ I'm a **Software Engineer** passionate about architecting intelligent systems an
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
 
 ### Tools & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20(pgvector)-black?style=flat-square&logo=postgresql)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apache-kafka)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20(pgvector)-black?style=flat-square&logo=postgresql)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions%20(CI%2FCD)-black?style=flat-square&logo=github-actions)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
