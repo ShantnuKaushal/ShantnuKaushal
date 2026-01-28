@@ -1,6 +1,6 @@
 # Hi there, I'm Shantnu 👋
 
-I'm a **Software Engineer** passionate about architecting intelligent systems and pushing the boundaries of machine learning integration. I specialize in **Retrieval-Augmented Generation (RAG)**, **Deep Learning**, and **Full-Stack Development**.
+I'm a **Software Engineer** passionate about architecting intelligent systems and pushing the boundaries of machine learning integration. I specialize in **Deep Learning**, **Distributed Systems**, and **Full-Stack Development**.
 
 ---
 
@@ -10,8 +10,9 @@ I'm a **Software Engineer** passionate about architecting intelligent systems an
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![.NET 8](https://img.shields.io/badge/-.NET%208-black?style=flat-square&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
@@ -20,6 +21,7 @@ I'm a **Software Engineer** passionate about architecting intelligent systems an
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=sqlalchemy)
+![Entity Framework](https://img.shields.io/badge/-EF%20Core-black?style=flat-square&logo=dotnet)
 
 ### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
@@ -31,15 +33,22 @@ I'm a **Software Engineer** passionate about architecting intelligent systems an
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
 
-### Tools & Infrastructure
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apache-kafka)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20(pgvector)-black?style=flat-square&logo=postgresql)
-![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### DevOps & Infrastructure
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=apache-kafka)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions%20(CI%2FCD)-black?style=flat-square&logo=github-actions)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
+![gRPC](https://img.shields.io/badge/-gRPC-black?style=flat-square&logo=grpc)
 
 ---
 
